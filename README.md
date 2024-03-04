@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Shubh, a dedicated MERN Stack Developer currently employed and pursuing a BCA degree set to be completed in 2024. With a passion for software development, I am actively seeking new opportunities in the MERN Stack domain. My experience has equipped me with strong skills in JavaScript, React, Node.js, and MongoDB. I am eager to contribute my expertise to innovative projects and continue my growth in the dynamic field of software development.
+As a seasoned MERN stack developer, I bring a wealth of experience in successfully delivering over 10 client projects and managing two distinct IT products. My expertise extends seamlessly from front-end to back-end development, encompassing server-side operations. My commitment to innovation and a genuine passion for solving complex problems through technology sets me apart in the dynamic landscape of IT solutions. With a proven track record, I am dedicated to delivering cutting-edge solutions that redefine the possibilities of technological advancement.
 
 
 # 💻 Tech Stack:
