@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a seasoned MERN stack developer, I bring a wealth of experience in successfully delivering over 10 client projects and managing two distinct IT products. My expertise extends seamlessly from front-end to back-end development, encompassing server-side operations. My commitment to innovation and a genuine passion for solving complex problems through technology sets me apart in the dynamic landscape of IT solutions. With a proven track record, I am dedicated to delivering cutting-edge solutions that redefine the possibilities of technological advancement.
+As a MERN stack developer with over a year of experience, I've led teams, including a core team of three developers, to successfully complete more than 10 client projects. I excel in both backend and frontend development, adept at tackling complex challenges with robust problem-solving skills. Driven by a passion for innovation, I deliver solutions that redefine technological possibilities, dedicated to pushing the boundaries of IT solutions.
 
 
 # 💻 Tech Stack:
