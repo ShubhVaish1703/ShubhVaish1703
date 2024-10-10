@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a MERN stack developer with over a year of experience, I've led teams, including a core team of three developers, to successfully complete more than 10 client projects. I excel in both backend and frontend development, adept at tackling complex challenges with robust problem-solving skills. Driven by a passion for innovation, I deliver solutions that redefine technological possibilities, dedicated to pushing the boundaries of IT solutions.
+Full Stack Developer with over 2 years of experience specializing in the MERN stack, Next.js, and backend problem-solving. Proficient in building scalable web applications, developing robust REST APIs, and creating responsive frontends. Skilled in backend optimization and solving complex technical challenges.
 
 
 # 💻 Tech Stack:
